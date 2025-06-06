@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "tailway"         # 用户名
 UUID = "84fe6a1e-966c-49e0-8f8c-23063f402d9f"                     # UUID，留空则自动生成
 PORT = 43399                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = "stream.deespseek.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZDEyMTE5N2M3NmE4YjU5MzI4OGFhYjgwYTgxYTc1NzYiLCJ0IjoiN2RkNTg1NzYtNzMwYi00ODI2LWI1NzctNzI0NzM1Y2Y0Zjc0IiwicyI6Ik9UUTBNV1ppTXpBdFl6bGxZeTAwWmpNM0xUaGlPR1V0TkRrMlpXTTNaVEF3WkRVNSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
